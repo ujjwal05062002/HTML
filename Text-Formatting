@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>this is heading</h2>
+    <p>
+        Lorem ipsum dolor sit <b>this is bold</b> amet <strong>this is strong text</strong>consectetur adipisicing elit. Aliquam perferendis ullam dignissimos velit ipsum? Corrupti aut  dignissimos, cum beatae ullam voluptates laborum, <i>this is italic</i>   <em>this is emphasis </em>accusamus quisquam quos aliquid voluptate blanditiis aliquam, dolores <u>this is underline</u> eveniet vero magni ad eos doloribus in? <strike>this is the strike</strike> Eius vitae exercitationem minus ex id necessitatibus nostrum inventore itaque <del>this is delete </del> totam non! Enim eveniet nobis velit dolorem consequuntur corrupti error, expedita quo <mark> this is highlighted using the mark </mark> exercitationem quod cupiditate, sapiente unde at ea dolores doloremque eos commodi ad dolore, a magni <sup>this  is superscript </sup> cum deleniti? Ratione quibusdam, illo molestiae molestias optio iusto inventore tempore <sub> this is subscript    </sub>quos, dolorem iste porro magnam aperiam placeat accusamus voluptatum, natus amet temporibus perferendis nam soluta neque fugit. Vero incidunt doloribus, hic debitis nulla quae ex consectetur harum fugiat qui aperiam ducimus maiores voluptatem quo quibusdam consequuntur. Deserunt, explicabo maxime tenetur molestias aut incidunt impedit, minima perferendis odit eos doloremque sed. Eos reprehenderit expedita minus tempora. Reiciendis voluptates dolorum accusamus! Necessitatibus sunt iure quos deserunt sint!
+
+    </p>
+</body>
+</html>
