@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>------------------------------------------audio in html --------------------------------</p>
+    <audio src="https://wynk.in/music/song/the-gaana-song/pp_INT201902112" controls></audio>
+    <p>---------------------------------------- video in html ----------------------------------</p>
+    <video src="https://www.youtube.com/watch?v=nWbj7W_pD9U&list=RDnWbj7W_pD9U&start_radio=1" controls></video>
+    <p>------------------------------------- marquee in html ------------------------------------</p>
+    <marquee direction="right" scrollamount="1000">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio necessitatibus dicta, animi officiis exercitationem, incidunt omnis maiores nesciunt ducimus ipsa eius illum est rerum quos debitis consequatur corporis. Eius sit provident cumque commodi officiis, ex quod optio molestias sequi voluptates?</marquee>
+</body>
+</html>
