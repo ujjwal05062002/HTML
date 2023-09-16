@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>------------------------------------ Anchor Tags ---------------------------------------------</p>
+
+    <a href="https://www.google.com" target="_blank" title="Click to go to Google Home Page">Google</a><br>
+    <a href="https://www.Facebook.com" target="_blank" title="Click to go to Facebook Home Page">Facebook</a><br>
+    <a href="https://www.Youtube.com" target="_blank" title="Click to go to Youtube Home Page">Youtube</a><br>
+    <a href="https://www.Gmail.com" target="_blank" title="Click to go to Gmail Home Page">Gmail</a><br>
+    <a href="https://www.Github.com" target="_blank" title="Click to go to Github Home Page">Github</a><br>
+   
+</body>
+</html>
